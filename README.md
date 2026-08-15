@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on → a personal project, your thesis, or a course assignment<br>(e.g., "a weather app using React" or "my final year project on ML")<br>👯 I'm looking to collaborate on → open source projects, hackathons, student projects<br>(e.g., "beginner-friendly open source projects" or "hackathon teams")<br>🤝 I'm looking for help with → something you're genuinely stuck on<br>(e.g., "system design concepts" or "DSA problem solving")<br>🌱 I'm currently learning → your current tech stack or courses<br>(e.g., "React, Node.js, and Data Structures" or "Machine Learning with Python")<br>💬 Ask me about → your strengths or interests<br>(e.g., "web development, Python, or competitive programming")<br>⚡ Fun fact → something personal and memorable<br>(e.g., "I debug better at 2am ☕" or "I've solved 0 LeetCode problems")<br>
+- 🔭 **I’m currently working on** Full-stack web applications and machine learning pipeline integrations.
+- 👯 **I’m looking to collaborate on** Generative AI hackathons, open-source repositories, and developer tooling.
+- 🤝 **I’m looking for help with** Complex dynamic programming and system design architectures.
+- 🌱 **I’m currently learning** Deep learning models, cloud-native deployments, and modern backend frameworks.
+- 💬 **Ask me about** Python development, DSA optimization, ML fundamentals, and hackathon project prototyping.
+- ⚡ **Fun fact** I tell myself "one more commit" at midnight, but the commit log says 3:42 AM.
 
 
 ## 🌐 Socials:

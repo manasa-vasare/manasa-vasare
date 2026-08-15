@@ -1,10 +1,10 @@
 # 💫 About Me:
-- 🔭 **I’m currently working on** Full-stack web applications and machine learning pipeline integrations.
-- 👯 **I’m looking to collaborate on** Generative AI hackathons, open-source repositories, and developer tooling.
-- 🤝 **I’m looking for help with** Complex dynamic programming and system design architectures.
-- 🌱 **I’m currently learning** Deep learning models, cloud-native deployments, and modern backend frameworks.
-- 💬 **Ask me about** Python development, DSA optimization, ML fundamentals, and hackathon project prototyping.
-- ⚡ **Fun fact** I tell myself "one more commit" at midnight, but the commit log says 3:42 AM.
+- 🔭 **I’m currently working on** Scalable full-stack apps and production-ready ML workflows.
+- 👯 **I’m looking to collaborate on** GenAI hackathons, developer tools, and high-impact open source.
+- 🤝 **I’m looking for help with** System design tradeoffs and advanced LeetCode patterns.
+- 🌱 **I’m currently learning** LLM orchestration, vector databases, and distributed backend systems.
+- 💬 **Ask me about** Python, full-stack architecture, ML modeling, or competitive coding.
+- ⚡ **Fun fact** 90% of my debugging process is just adding descriptive print statements, and I refuse to apologize.
 
 
 ## 🌐 Socials:

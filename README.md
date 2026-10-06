@@ -11,7 +11,8 @@ I'm a developer who enjoys bridging the gap between fast modern frontends and ro
 - **ApniLeap:** Developing and refining an industry-academia model to bridge the gap between educational institutions and the professional tech world.
 
 ### 🛠️ Core Technologies
-- **Frontend:** Vite, React, JavaScript/TypeScript
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-CA3042?style=for-the-badge&logo=davinciresolve&logoColor=white) ![Alight Motion](https://img.shields.io/badge/Alight_Motion-000000?style=for-the-badge)
+
 - **DevOps:** Docker, Containerization
 - **Systems:** Computer Networking, System Design
 
